@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (only needed if you run build.js)
+node_modules/
+
+# Backup files
+*.bak
+*.tmp
