@@ -5,6 +5,8 @@ A self-contained, single-file React application for mastering Data Structures & 
 **194 problems · 19 categories · Interactive learning guides · Persistent progress tracking**
 
 ---
+<img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/259c717f-7ded-4b49-8722-568bce638c3e" />
+---
 
 ## Features
 
